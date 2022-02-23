@@ -9,11 +9,13 @@ b.	Add new doctor
 c.	View doctors and able to view their appointments and delete their account.
 d.	View patient accounts and able to view their appointment and delete their file
 e.	View all appointment records
+
 •	Doctor functionality: 
 a.	Login
 b.	Approve appointment 
 c.	View scheduled appointment
 d.	View profile and able to update info
+
 •	Patient functionality:
 a.	Register and login
 b.	Request appointment
