@@ -29,4 +29,4 @@ c.	The app missing some features for the authentications such as email verificat
 3.	The application Current issues:
 a.	Not issues
 4.	The language and tools used: Java for Android OS 
-5.	Github Source code link:  https://github.com/akaldhafer/MyClinic 
+5.	Github Source code link:  
